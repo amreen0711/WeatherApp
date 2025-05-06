@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('cloud.png'); /* Cloudy image */
+    background-size: 120%;
+    background-position: center;
+    color: white;
+    text-align: center;
+  }
+  
+  
+  .container {
+    padding: 20px;
+    background-color: rgba(30, 140, 209, 0.338);
+    margin: 50px auto;
+    width: 300px;
+    border-radius: 10px;
+  }
+  
+  input, button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 80%;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #historyList {
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+  }
+  
+  #historyList li {
+    margin-top: 5px;
+  }
+
+  body {
+    font-family: 'Arial', sans-serif;
+    direction: ltr; /* Force left-to-right text */
+  }
+ 
+  #historyList li {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  
+  
+  #weatherInfo {
+    margin-top: 20px;
+  }
+  
